@@ -1,4 +1,12 @@
+# The Sushirrito
 
+![](./db5.jpg)
+
+## Origins
+
+## Contributors
+
+## Parent Dishes
 
 ## References
 
