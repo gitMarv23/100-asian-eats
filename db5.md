@@ -16,6 +16,11 @@ McCleary is a developer and traveller that has taken her own DIY twist on the Su
 
 The Sushirrito has two country origins - one involves my own culture from Mexico which contributes to the "Burrito" portion of this dish, and the other involves Japan with the creation of "Sushi" (these items are shown on the left of my image above) (Sushirrito, 2022). 
 Mexico has created several variations on the Burrito that involves different meats, toppings, sauces, or tortillas, but the core essence of the dish remains the same - a tortilla base (large enough to contain the contents) and a mixture of ingredients tightly compressed into a delicious roll. 
+On the otherhand, Japan's Sushi dish is a lighter version that includes more of a fish variety than red meats. 
+In comparison to the Burrito, Sushi is also compressed into a roll, however, it is normally sliced into pieces for the customer to enjoy and the ingredients are rolled in seaweed (now that is a delicious alternative!).
+
+## Adaptations to the RRito
+
 
 
 ## References
