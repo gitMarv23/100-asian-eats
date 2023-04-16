@@ -21,7 +21,10 @@ In comparison to the Burrito, Sushi is also compressed into a roll, however, it 
 
 ## Adaptations to the RRito
 
-
+At this point, the similarities of our two historical dishes share what sound like a great mixture - a roll with ingredients. 
+This led to the adaptation of the delicious Sushirrito created by Peter Yen in 2008 when he noticed that this type of dish was not being served in restaurants despite how tasty the combination was (Gabriele, 2019). 
+Thus, he began mixing the seaweed base from Japanese sushi in place of a flour tortilla and adding rice cooked from Mexican dishes with inclusions of red meat instead of seafood to give birth to a dish now called the *Sushirrito* (with a restaurant to match) (Gabriele, 2019). 
+The birth of this mixture even questioned physicians with the association of Graft-versus-Host-Disease Prophylaxis where combination of meats and ingredients resulted in different case study samples improving overall health (Hashmi, 2021).
 
 ## References
 
