@@ -4,7 +4,17 @@
 
 ## Origins
 
+Neoculturation is a fantastic way to transform well-known, favorite dishes into a blend of flavors and popularity. 
+In this case of the *Sushirrito* (a delicious combination of my two favorite dishes - Sushi and Burrito), its origin actually occurred here in the United States. 
+The original Sushirrito began in San Francisco, California, where a restaurant of the same name, *Sushirrito*, developed the dish as "modern Japanese with a Latin twist" (Sushirrito, 2022). 
+Since its inception, there have been many modifications to its ingredients that have included items such as tuna, pickled ginger, and wasabi (Silcock, 2017). 
+Even food truck businesses such as Jogasaki Sushi Burrito have been acclaimed by high ranking companies such as Roaming Hunger for their own twist on the popular dish (Jogasaki Sushi Burrito, 2023). 
+The neoculturation has even transferred from the food industry to *Do It Yourself (DIY)* recipes that everyone can try at home. 
+McCleary is a developer and traveller that has taken her own DIY twist on the Sushirrito for at home individuals to create the dish at an affordable value (McCleary, 2022).
+
 ## Contributors
+
+
 
 ## Parent Dishes
 
