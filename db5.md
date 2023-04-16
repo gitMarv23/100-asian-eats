@@ -12,11 +12,11 @@ Even food truck businesses such as Jogasaki Sushi Burrito have been acclaimed by
 The neoculturation has even transferred from the food industry to *Do It Yourself (DIY)* recipes that everyone can try at home. 
 McCleary is a developer and traveller that has taken her own DIY twist on the Sushirrito for at home individuals to create the dish at an affordable value (McCleary, 2022).
 
-## Contributors
+## Contributors & Parent Dishes
 
+The Sushirrito has two country origins - one involves my own culture from Mexico which contributes to the "Burrito" portion of this dish, and the other involves Japan with the creation of "Sushi" (these items are shown on the left of my image above) (Sushirrito, 2022). 
+Mexico has created several variations on the Burrito that involves different meats, toppings, sauces, or tortillas, but the core essence of the dish remains the same - a tortilla base (large enough to contain the contents) and a mixture of ingredients tightly compressed into a delicious roll. 
 
-
-## Parent Dishes
 
 ## References
 
