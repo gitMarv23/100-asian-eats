@@ -1,0 +1,2 @@
+# Ensure open swap files for text editor are not commited
+*.swp
