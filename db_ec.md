@@ -23,7 +23,10 @@ The result was quite enjoyable and it was a mutual agreement that Dim Sum was mu
 
 ## Extra Details
 
-
+Some last details of this dish are how well the balance was maintained between the outer shell and inner ingredients. 
+Each dumpling was fried perfectly where the base had a crunchy texture and none of the ingredients was burnt. 
+It showed the delicacy achieved by this restaurant which can take years to master. 
+Once again, definitely recommend this restaurant for its one of many dishes to offer!
 
 ## References
 
