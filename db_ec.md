@@ -16,7 +16,14 @@ Also, combining this dish with an assortment of sauces can increase the rich uma
 
 ## What are the spices?
 
+The prime ingredient in this dish was pork filling mixed with a barbecue sauce additive. 
+The sauce really emphasized the texture and flavor of the pork, but was missing a bit of spice for our liking. 
+Luckily, the restaurant includes Siracha sauce that can be added to any dish to emphasize the spice level. 
+The result was quite enjoyable and it was a mutual agreement that Dim Sum was much better with Siracha.
+
 ## Extra Details
+
+
 
 ## References
 
