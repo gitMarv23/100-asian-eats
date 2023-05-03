@@ -1,6 +1,18 @@
 # Rice and Food Sustainability
 
-# Reference
+## A Farmer's Challenge
+
+Farmers face an abundant amuont of daily challenges when working in an agricultural environment. 
+Even locally in California, situtations caused by greenhouse gas emissions have produced food security challenges that need to be overcome by farmers (Brodt et. al, 2014). 
+Such climate changes are elements that farmers are currently unable to directly control, but there are scientific methods (using modern technology) that have been published to propose solutions for such changes.
+
+## Possible Solutions
+
+
+
+## Impressions
+
+## References
 
 Biswal, Akshaya K., Satendra K. Mangrauthia, M. Raghurami Reddy, and Poli Yugandhar. 2019. “CRISPR Mediated Genome Engineering to Develop Climate Smart Rice: Challenges and Opportunities.” Seminars in Cell & Developmental Biology 96 (December): 100–106. doi:10.1016/j.semcdb.2019.04.005.
 
