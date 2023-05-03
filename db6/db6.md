@@ -35,6 +35,11 @@ By *silencing* this gene, it was noted that the rice tolerance to water signific
 
 ## Impressions
 
+The impressions on all four methods described above revolves around the types of approaches available with modern technology. 
+Situations conceived only in science fiction movies such as genetic modifications and dynamically adapting plants were quite the surprise to find that it is occurring as this analysis is being written. 
+Lastly, Biswal et. al qualifies as an academic source discovered in the *Academic Search Complete* Database from the California State University, Long Beach Library list of databases. 
+The information was published as a result from the seminars in cell and developmental biology works and is recognized amongst the scientific community.
+
 ## References
 
 Biswal, Akshaya K., Satendra K. Mangrauthia, M. Raghurami Reddy, and Poli Yugandhar. 2019. “CRISPR Mediated Genome Engineering to Develop Climate Smart Rice: Challenges and Opportunities.” Seminars in Cell & Developmental Biology 96 (December): 100–106. doi:10.1016/j.semcdb.2019.04.005.
