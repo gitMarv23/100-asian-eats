@@ -22,6 +22,11 @@ With technological advancements involving artificial intelligence and machine le
 That is precisely what Biswal et. al proposes with the biological mediated genome engineering to develop *climate smart rice*.
 This dynamic concept of rice that can adapt to its climate changes is under development by analyzing the desirable phenotypes and responsible genetic factors that can be altered to increase tolerance toward undesireable weather conditions (Biswal et. al, 2019)!
 
+### Dynamic Double-Season Rice
+
+This method provided by Zhang et. al uses statistical evidence based on projections of greenhouse gas emission rates to increase the plantation rate in preparation for the seasonal change. 
+The data accumulated predicted rates of change in thermal changes, secure maturation, and even the potential growing season through the year 2095 (Zhang et. al, 2021).
+
 ## Impressions
 
 ## References
