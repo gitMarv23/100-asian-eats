@@ -27,6 +27,12 @@ This dynamic concept of rice that can adapt to its climate changes is under deve
 This method provided by Zhang et. al uses statistical evidence based on projections of greenhouse gas emission rates to increase the plantation rate in preparation for the seasonal change. 
 The data accumulated predicted rates of change in thermal changes, secure maturation, and even the potential growing season through the year 2095 (Zhang et. al, 2021).
 
+### Enhancement of Drought Tolerance
+
+The final method found involves biological modifications to increase the drought tolerance in rice by silencing the OsSYT-5 gene (Shanmugam et. al, 2021). 
+The OsSYT-5 gene is known as the synaptotagmin-5 gene that is a sensing protein in charge of rice tolerance to water. 
+By *silencing* this gene, it was noted that the rice tolerance to water significantly improved (Shanmugam et. al, 2021); this could greatly impact the longevity of rice plantation for farmers whose crops perish due to the changing weather challenges.
+
 ## Impressions
 
 ## References
