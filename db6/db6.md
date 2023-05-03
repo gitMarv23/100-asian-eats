@@ -8,7 +8,13 @@ Such climate changes are elements that farmers are currently unable to directly 
 
 ## Possible Solutions
 
+For any type of problem, there is a solution. As such, the following solutions were proposed in response to agricultural climate warnings:
 
+### Change Planting Methods
+
+A solution provided by Li et. al approaches the planting method directly. 
+Their method created a methodological framework based on temperature-based rice growth season determination and GIS spatial analysis to quantify the effect of climate warming and improvements in planting methods (transplanting to direct seeding) (Li et. al, 2023). 
+In otherwords, the alternative approach would be transplanting based on the optimal results obtained from the observation of 267 and 159 km southward movement causing a 13.3% decrease in the study area! (Li et. al 2023).
 
 ## Impressions
 
