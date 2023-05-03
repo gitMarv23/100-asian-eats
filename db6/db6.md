@@ -16,6 +16,12 @@ A solution provided by Li et. al approaches the planting method directly.
 Their method created a methodological framework based on temperature-based rice growth season determination and GIS spatial analysis to quantify the effect of climate warming and improvements in planting methods (transplanting to direct seeding) (Li et. al, 2023). 
 In otherwords, the alternative approach would be transplanting based on the optimal results obtained from the observation of 267 and 159 km southward movement causing a 13.3% decrease in the study area! (Li et. al 2023).
 
+### Climate Smart Rice
+
+With technological advancements involving artificial intelligence and machine learning, why not apply the concepts to the agricultural industry? 
+That is precisely what Biswal et. al proposes with the biological mediated genome engineering to develop *climate smart rice*.
+This dynamic concept of rice that can adapt to its climate changes is under development by analyzing the desirable phenotypes and responsible genetic factors that can be altered to increase tolerance toward undesireable weather conditions (Biswal et. al, 2019)!
+
 ## Impressions
 
 ## References
