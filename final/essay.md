@@ -27,6 +27,12 @@ This expanded to oversea presentations where conventions such as one held in 199
 Restaurants such as *Nobu* found in large cities (Los Angeles, New York, London, Tokyo, etc...) also incorporate the health perspective by transforming the original Japanese cuisine dish to a more health conscious audience (Christopher, 2023). 
 This is done by taking inspiration from Peru and European added flavours from items such as olive ouil, grape seed oil, and balsamic vinegar (Christopher, 2023) which is clearly derived from countries oversea.
 
+Transculturation is a fantastic way to apply variety to a traditional dish standard, but it does occur with its set of difficulty at the border level. 
+The greatest "food" problem is restrictions on the import/export capabilities. 
+When certain items are banned from entering/exiting the country, it becomes difficult to obtain the target result from your desired dish. 
+St. Maurice described the result of this border experience when tasting stir-fried mutton with fruit and sauce made from soy sauce, balsamic vinegar, and other flavoring agents by labeling the dish as "clearly Chinese cuisine". 
+Such lack of ingredients to create a truly Japanese cuisine experience showed what was unable to cross the border on transport.
+
 ### References
 
 Christopher, Rachel. 2023. "Nobu and the Globalisation of Japanese Food". Japan Nakama Blog. [https://www.japannakama.co.uk/nobu-and-japanese-food/](https://www.japannakama.co.uk/nobu-and-japanese-food/).
