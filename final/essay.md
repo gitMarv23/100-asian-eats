@@ -4,6 +4,11 @@ Marvin Barajas
 
 ## Part 1
 
+Asian cuisine consists of a long, rich history full of culture and sophistication when specifying their dishes. 
+As described by St. Maurice, the global expansion of its associated dishes has swept the globe in awe and curiosity based on the included ingredients and final preparation delivery. 
+For our intended scope, we will analyze the globalization of both Japanese and Turkish cuisines with respect to the four associated Global Competencies. 
+It is important to realize that, while these associated cultures share many similarities due to their geographical position, there are unique traits that define each aspect respectively. 
+
 
 
 ### References
