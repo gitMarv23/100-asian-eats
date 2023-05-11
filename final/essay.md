@@ -21,7 +21,11 @@ For example, St. Maurice explains that an interviewee described how "a one-pot m
 This clash demonstrates the mix of ingredients not typically incorporated in the Japanese cuisine dish and how the original elite chefs feel about its involvements in such a dish. 
 As a reinforcement on perspective, St. Maurice also explains that said chefs are not appalled by the change in the original cuisine, but the original traditions are not being upheld. 
 
-
+Transculturation is the key to globalization of both cuisines due to its reach into Western Civilization. 
+The reason behind culturation is best explained as the response to greater health awareness, and an increased appreciation of healthy Japanese cuisine (Kumakura). 
+This expanded to oversea presentations where conventions such as one held in 1998 at the Japan Society, New York, five speakers reported such themes such as the history of tableware used in Japanese cuisine, and European language/food in Japan (Kumakura). 
+Restaurants such as *Nobu* found in large cities (Los Angeles, New York, London, Tokyo, etc...) also incorporate the health perspective by transforming the original Japanese cuisine dish to a more health conscious audience (Christopher, 2023). 
+This is done by taking inspiration from Peru and European added flavours from items such as olive ouil, grape seed oil, and balsamic vinegar (Christopher, 2023) which is clearly derived from countries oversea.
 
 ### References
 
