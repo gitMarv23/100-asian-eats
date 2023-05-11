@@ -16,4 +16,6 @@ Karaosmanoglu, Defne. “Globalised Cuisine, Non-National Identities and the Ind
 
 Kumakura, Isao. "The Globalization of Japanese Food Culture". Food Culture. [https://www.kikkoman.co.jp/kiifc/foodculture/pdf_01/e_006_007.pdf](https://www.kikkoman.co.jp/kiifc/foodculture/pdf_01/e_006_007.pdf).
 
+St. Maurice, Greg. 2017. "Kyoto Cuisine Gone Global". Gastronomica , Fall 2017, Vol. 17, No. 3 (Fall 2017), pp. 36-48.
+
 ## Part 2
