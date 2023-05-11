@@ -51,3 +51,10 @@ Kumakura, Isao. "The Globalization of Japanese Food Culture". Food Culture. [htt
 St. Maurice, Greg. 2017. "Kyoto Cuisine Gone Global". Gastronomica , Fall 2017, Vol. 17, No. 3 (Fall 2017), pp. 36-48.
 
 ## Part 2
+
+In today's modern world, the internet is a direct source of a plethora of information. 
+Anything desired for explanation can be researched online with a set amount of clicks, or finger presses on your mobile devices). 
+This ease of availability also posese issues with the validity of informatino discovered. 
+It is imperative to determine which sources actually contain reliable information that is both authentic and relevant.
+
+
