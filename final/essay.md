@@ -33,6 +33,11 @@ When certain items are banned from entering/exiting the country, it becomes diff
 St. Maurice described the result of this border experience when tasting stir-fried mutton with fruit and sauce made from soy sauce, balsamic vinegar, and other flavoring agents by labeling the dish as "clearly Chinese cuisine". 
 Such lack of ingredients to create a truly Japanese cuisine experience showed what was unable to cross the border on transport.
 
+In conclusion, the global competencies applied to the globalization of Japanese and Turkish cuisines really influenced the variety of associated dishes available today. 
+The abundant options selectable in Western Civilization culture add changes to the authenticity of the original dishes, but sometimes have a much more rich, umami result in comparison. 
+While the new adaptation may sometimes be a better result, the original dish does have its unbeatable moments when the selected ingredients come together accordingly. 
+The importance of ingredients, preparation, and cooking process really influences the dish as equally important with the global competencies.
+
 ### References
 
 Christopher, Rachel. 2023. "Nobu and the Globalisation of Japanese Food". Japan Nakama Blog. [https://www.japannakama.co.uk/nobu-and-japanese-food/](https://www.japannakama.co.uk/nobu-and-japanese-food/).
