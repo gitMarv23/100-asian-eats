@@ -16,6 +16,11 @@ The difference in comparison with Japanese cuisine is the concern that unqualifi
 They do, however, share an equal similiarity to apply their delicious talents on obtaining customers as the intended recipients. 
 Whether its the ancient Japanese applications of fruits such as sudachi lime and pears (Jones, 2017), or Turkish implementations such as lamb, chicken, and eggplants (Karaosmanoglu, 2013), the purpose is to propose the best dish for their customers with a goal of business profits.
 
+With regard to the globalization of Japanese cuisine, the result of diffusion is shown in various article examples. 
+For example, St. Maurice explains that an interviewee described how "a one-pot meal for farming families that could be prepared relatively quickly after returning from a day in the field [clashes] with the image of a traditional rice, soup, and three side dishes (*ichiju sansai*) washoku meal". 
+This clash demonstrates the mix of ingredients not typically incorporated in the Japanese cuisine dish and how the original elite chefs feel about its involvements in such a dish. 
+As a reinforcement on perspective, St. Maurice also explains that said chefs are not appalled by the change in the original cuisine, but the original traditions are not being upheld. 
+
 
 
 ### References
