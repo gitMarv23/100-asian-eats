@@ -57,4 +57,17 @@ Anything desired for explanation can be researched online with a set amount of c
 This ease of availability also posese issues with the validity of informatino discovered. 
 It is imperative to determine which sources actually contain reliable information that is both authentic and relevant.
 
+This course has improved my abilities to determine which content/sources I deem reliable when researching **any** topic. 
+The above sources in Part 1 included a list of academic references and relevant blogs with provided feedback from sources that were authentic companies or industry professionals. 
+St. Maurice is the inital source provided from the University of California Press, an academic institution with credibility for the works provided. 
+Another academic source provided is Karaosmanoglu which was originally found from the California State University, Long Beach library database that pulled such information from a peer reviewed academic Journal of Intercultural Studies. 
+The remainder of sources such as Christopher, Jones, and Kumakura, were discovered from industry professionals (or the interviewing of professionals) that contained their own verified and cites sources. 
 
+As such, my abilities to verify resources has greatly improved throughout the issue of this course. 
+I can now guarantee the checkl verification of author name presence, homepage links, listing of credentials, and all other aspects of verification described by the Georgetown University Library. 
+While my skills have been polished, there is always room for improvement by learning new methods of processing and verification in the future. 
+The important aspect is that now I have a solid foundation to build such skills for future success.
+
+### Reference (includes those from Part 1)
+
+"Evaluating Internet Resources". Georgetown University Library. [https://library.georgetown.edu/tutorials/research-guides/evaluating-internet-content](https://library.georgetown.edu/tutorials/research-guides/evaluating-internet-content).
