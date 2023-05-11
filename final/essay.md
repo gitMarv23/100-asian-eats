@@ -9,6 +9,13 @@ As described by St. Maurice, the global expansion of its associated dishes has s
 For our intended scope, we will analyze the globalization of both Japanese and Turkish cuisines with respect to the four associated Global Competencies. 
 It is important to realize that, while these associated cultures share many similarities due to their geographical position, there are unique traits that define each aspect respectively. 
 
+Distinct foodways provide an abundant of differences and similarities in the Asian/Pacific rim area. 
+They define what locations offer certain types of food based on what country is boarding the Pacific Ocean. 
+One of the main differences in culture refers to the implications in the important emphasis on ethnicity (Karaosmanoglu, 2013) for Turkish-based culture. 
+The difference in comparison with Japanese cuisine is the concern that unqualified chefs will add their own twist on traditional dishes, therefore creating a different item than intended (St. Maurice, 2017). 
+They do, however, share an equal similiarity to apply their delicious talents on obtaining customers as the intended recipients. 
+Whether its the ancient Japanese applications of fruits such as sudachi lime and pears (Jones, 2017), or Turkish implementations such as lamb, chicken, and eggplants (Karaosmanoglu, 2013), the purpose is to propose the best dish for their customers with a goal of business profits.
+
 
 
 ### References
